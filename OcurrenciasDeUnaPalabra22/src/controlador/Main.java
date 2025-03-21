@@ -11,7 +11,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		BufferedReader in = null;
-		
+		System.out.println("hola");
 		try {
 			System.out.println("Introduzca una palabra para ver cuantas veces aparece el el fichero: ");
 			String palabra = sc.nextLine();
